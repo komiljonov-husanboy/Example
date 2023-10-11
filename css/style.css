@@ -1,0 +1,98 @@
+.test_1{
+    width: 200px;
+    height: 200px;
+    border: 1px solid green;
+    background-color: white;
+    text-align: center;
+    font-size: 16px;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+.test_2{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 1px solid rgb(47, 0, 128);
+    background-color: rgb(245, 203, 203);
+    text-align: center;
+    font-size: 16px;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+.btn{
+    margin-bottom: 200px;
+    width: 100px;
+    height: 40px;
+    background-color: rgb(111, 220, 111);
+    font-size: 16px;
+    border-radius: 10px;
+    border: none;
+
+}
+.inp{
+    width: 200px;
+    height: 40px;
+    font-size: 16px;
+    border: none;
+    border-bottom-left-radius: none ;
+    border-bottom-right-radius:none ;
+    outline: none;
+    box-shadow: 0 0 5px rgba(144, 141, 141, 0.151);
+    margin-right: 10px;
+}
+.Text{
+   color: blue;
+   margin: 0 auto;
+   padding-top: 10px;
+}
+
+.container{
+    width: 1110px;
+    margin: 0 auto;
+    text-align: center;
+}
+.btn__fnn{
+    margin-top: 50px;
+    width: 100px;
+    height: 40px;
+    background-color: rgb(111, 220, 111);
+    font-size: 16px;
+    border-radius: 10px;
+    border: none;
+}
+.Example{
+    width: 200px;
+    height: 200px;
+    background-color:rgb(155, 155, 235);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 16px;
+    margin: 0 auto;
+    margin-top: -100px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+}
+
+
+
+.Sun{
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: greenyellow;
+    color: black;
+    border: none;
+    margin-top: 100px;
+    font-size: 17px;
+
+}
+.homework{
+    background-color: aquamarine;
+    width: 1000px;
+    height: 700px;
+    padding: 100px;
+}
